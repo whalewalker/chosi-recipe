@@ -3,7 +3,7 @@
 const App = () => {
   return (
     <div>
-      <h1>React Application</h1>
+      <h1>React is awesome</h1>
     </div>
   )
 }
